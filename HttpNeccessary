@@ -1,0 +1,4 @@
+"Allow HTTP Requests" is required for a couple of reasons:
+1. To keep anyone blacklisted out from the plugin.
+2. To have access to the terms of use.
+3. To make sure your plugin is running on the latest version.
